@@ -1,12 +1,12 @@
 {
     "workbench.colorCustomizations": {
-        "titleBar.activeBackground": "#f9a2f9",
+        "titleBar.activeBackground": "#f4bfa8",
         "titleBar.activeForeground": "#000000",
-        "titleBar.inactiveBackground": "#f9a2f9",
+        "titleBar.inactiveBackground": "#f4bfa8",
         "titleBar.inactiveForeground": "#000000",
-        "titleBar.border": "#f9a2f9",
-        "activityBar.foreground": "#f9a2f9",
-        "tab.activeBorder": "#f9a2f9",
+        "titleBar.border": "#f4bfa8",
+        "activityBar.foreground": "#f4bfa8",
+        "tab.activeBorder": "#f4bfa8",
         "iLoveWorkSpaceColors": true,
         "iLoveWorkSpaceRandom": false,
         "useWorkspaceLite": true
