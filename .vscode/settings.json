@@ -10,5 +10,11 @@
         "iLoveWorkSpaceColors": true,
         "iLoveWorkSpaceRandom": false,
         "useWorkspaceLite": true
+    },
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false
     }
 }
